@@ -1,4 +1,4 @@
-_This is a prototype as a proof-of-concept. Use at your own risk._
+_This is a prototype as a proof-of-concept. Lots of sloppy code, console logs, unnecessary files, etc. Use at your own risk._
 
 # immfs
 A prototype of an "immutable file system" on the Ethereum blockchain. 
